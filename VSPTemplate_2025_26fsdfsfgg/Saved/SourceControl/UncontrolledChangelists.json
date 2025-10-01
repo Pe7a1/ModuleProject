@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/Maps/Challenges.umap",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/Task_3/RNGTerms/Term.uasset",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Movement.uasset",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Player_InputMappingContext.uasset",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Player_MappableInputConfig.uasset",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Look.uasset"
+			]
+		}
+	]
+}
