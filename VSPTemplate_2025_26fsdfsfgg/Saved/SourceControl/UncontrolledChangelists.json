@@ -11,7 +11,8 @@
 				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Movement.uasset",
 				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Player_InputMappingContext.uasset",
 				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Player_MappableInputConfig.uasset",
-				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Look.uasset"
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Look.uasset",
+				"U:/ModuleProject/VSPTemplate_2025_26fsdfsfgg/Content/FirstPerson/Blueprints/PlayerMovement/Crouching.uasset"
 			]
 		}
 	]
